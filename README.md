@@ -41,5 +41,5 @@ $ cd redbison
 
 ## Extra
 
-- You are welcome to make [issues and feature requests](https://github.com/Marktawa/strapi-nuxt-preview/issues).
+- You are welcome to make [issues and feature requests](https://github.com/Marktawa/redbison/issues).
 - In case you get stuck at somewhere, feel free to contact at [Mail](mailto:marktmunyaka@gmail.com).
